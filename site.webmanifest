@@ -1,0 +1,16 @@
+{
+  "name": "Harsh Thakur Portfolio",
+  "short_name": "Harsh Thakur",
+  "description": "Engineering portfolio for embedded systems, biomedical electronics, analog/VLSI design, and applied ML.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}

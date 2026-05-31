@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://harshthakur-51.github.io/sitemap.xml
