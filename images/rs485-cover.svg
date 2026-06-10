@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="RS-485 spindle monitoring preview">
+  <rect width="1200" height="675" fill="#020617"/>
+  <text x="90" y="120" fill="#7dd3fc" font-family="Arial" font-size="24" font-weight="700" letter-spacing="4">INDUSTRIAL MONITORING</text>
+  <text x="90" y="195" fill="#ffffff" font-family="Arial" font-size="60" font-weight="700">RS-485 Spindle Network</text>
+  <text x="90" y="250" fill="#cbd5e1" font-family="Arial" font-size="28">Distributed breakage detection across 10,608 gear spindles</text>
+  <path d="M150 430h900" stroke="#38bdf8" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#0f172a" stroke="#7dd3fc" stroke-width="4">
+    <rect x="150" y="350" width="130" height="130" rx="18"/>
+    <rect x="360" y="350" width="130" height="130" rx="18"/>
+    <rect x="570" y="350" width="130" height="130" rx="18"/>
+    <rect x="780" y="350" width="130" height="130" rx="18"/>
+    <rect x="990" y="350" width="130" height="130" rx="18"/>
+  </g>
+  <text x="172" y="430" fill="#e0f2fe" font-family="Arial" font-size="30" font-weight="700">N1</text>
+  <text x="382" y="430" fill="#e0f2fe" font-family="Arial" font-size="30" font-weight="700">N2</text>
+  <text x="592" y="430" fill="#e0f2fe" font-family="Arial" font-size="30" font-weight="700">N3</text>
+  <text x="802" y="430" fill="#e0f2fe" font-family="Arial" font-size="30" font-weight="700">N4</text>
+  <text x="1012" y="430" fill="#e0f2fe" font-family="Arial" font-size="30" font-weight="700">N5</text>
+</svg>

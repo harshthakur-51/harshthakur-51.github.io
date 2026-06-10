@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="ESP32 therapy controller ranges">
+  <rect width="1200" height="675" fill="#06111f"/>
+  <text x="90" y="120" fill="#7dd3fc" font-family="Arial" font-size="24" font-weight="700" letter-spacing="4">THERMAL + HAPTIC CONTROL</text>
+  <text x="90" y="195" fill="#ffffff" font-family="Arial" font-size="58" font-weight="700">Mode-Oriented Device UI</text>
+  <g font-family="Arial" font-weight="700">
+    <rect x="120" y="310" width="290" height="170" rx="22" fill="#0f172a" stroke="#fb7185" stroke-width="4"/>
+    <text x="170" y="385" fill="#ffe4e6" font-size="42">38-42 C</text>
+    <text x="176" y="430" fill="#cbd5e1" font-size="24">resistive heat</text>
+    <rect x="455" y="310" width="290" height="170" rx="22" fill="#0f172a" stroke="#38bdf8" stroke-width="4"/>
+    <text x="505" y="385" fill="#e0f2fe" font-size="42">18-22 C</text>
+    <text x="525" y="430" fill="#cbd5e1" font-size="24">Peltier cool</text>
+    <rect x="790" y="310" width="290" height="170" rx="22" fill="#0f172a" stroke="#a78bfa" stroke-width="4"/>
+    <text x="858" y="385" fill="#ede9fe" font-size="42">PWM</text>
+    <text x="855" y="430" fill="#cbd5e1" font-size="24">ERM vibration</text>
+  </g>
+</svg>

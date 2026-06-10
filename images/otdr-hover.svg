@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="OTDR classifier metrics">
+  <rect width="1200" height="675" fill="#06111f"/>
+  <text x="90" y="120" fill="#7dd3fc" font-family="Arial" font-size="24" font-weight="700" letter-spacing="4">MODEL RESULT</text>
+  <text x="90" y="195" fill="#ffffff" font-family="Arial" font-size="62" font-weight="700">99.96% Accuracy</text>
+  <g fill="#0f172a" stroke="#38bdf8" stroke-width="4">
+    <rect x="110" y="320" width="280" height="150" rx="20"/>
+    <rect x="460" y="320" width="280" height="150" rx="20"/>
+    <rect x="810" y="320" width="280" height="150" rx="20"/>
+  </g>
+  <text x="170" y="382" fill="#e0f2fe" font-family="Arial" font-size="44" font-weight="700">11,706</text>
+  <text x="170" y="430" fill="#cbd5e1" font-family="Arial" font-size="26">samples</text>
+  <text x="565" y="382" fill="#e0f2fe" font-family="Arial" font-size="44" font-weight="700">8</text>
+  <text x="530" y="430" fill="#cbd5e1" font-family="Arial" font-size="26">classes</text>
+  <text x="895" y="382" fill="#e0f2fe" font-family="Arial" font-size="44" font-weight="700">ANN</text>
+  <text x="875" y="430" fill="#cbd5e1" font-family="Arial" font-size="26">classifier</text>
+</svg>

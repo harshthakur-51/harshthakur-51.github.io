@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Smart heater controller preview">
+  <rect width="1200" height="675" fill="#020617"/>
+  <rect x="70" y="64" width="1060" height="547" rx="28" fill="#0f172a" stroke="#38bdf8" stroke-opacity=".28"/>
+  <text x="110" y="136" fill="#7dd3fc" font-family="Arial" font-size="24" font-weight="700" letter-spacing="4">STM8 CONTROL SYSTEM</text>
+  <text x="110" y="206" fill="#f8fafc" font-family="Arial" font-size="62" font-weight="700">Smart Heater</text>
+  <text x="110" y="260" fill="#cbd5e1" font-family="Arial" font-size="28">NTC sensing, display driver, triac actuation, motor control</text>
+  <g fill="none" stroke="#38bdf8" stroke-width="4" stroke-opacity=".8">
+    <rect x="140" y="350" width="220" height="120" rx="14"/>
+    <rect x="490" y="330" width="220" height="160" rx="14"/>
+    <rect x="840" y="350" width="220" height="120" rx="14"/>
+    <path d="M360 410h130M710 410h130"/>
+    <path d="M600 330v-64M600 490v64"/>
+  </g>
+  <g fill="#e0f2fe" font-family="Arial" font-size="26" font-weight="700">
+    <text x="194" y="421">INPUTS</text>
+    <text x="552" y="421">STM8</text>
+    <text x="884" y="421">LOADS</text>
+  </g>
+</svg>

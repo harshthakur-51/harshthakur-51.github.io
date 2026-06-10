@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="RS-485 monitoring latency preview">
+  <rect width="1200" height="675" fill="#06111f"/>
+  <text x="90" y="120" fill="#7dd3fc" font-family="Arial" font-size="24" font-weight="700" letter-spacing="4">FIELD ARCHITECTURE</text>
+  <text x="90" y="195" fill="#ffffff" font-family="Arial" font-size="58" font-weight="700">Breakage Event Path</text>
+  <g fill="none" stroke="#38bdf8" stroke-width="5">
+    <path d="M170 410h230l80-120h230l80 120h240"/>
+    <circle cx="170" cy="410" r="20" fill="#38bdf8"/>
+    <circle cx="480" cy="290" r="20" fill="#38bdf8"/>
+    <circle cx="790" cy="410" r="20" fill="#38bdf8"/>
+    <circle cx="1030" cy="410" r="20" fill="#38bdf8"/>
+  </g>
+  <text x="150" y="500" fill="#cbd5e1" font-family="Arial" font-size="28">Sensor node</text>
+  <text x="410" y="250" fill="#cbd5e1" font-family="Arial" font-size="28">RS-485 bus</text>
+  <text x="740" y="500" fill="#cbd5e1" font-family="Arial" font-size="28">Aggregator</text>
+  <text x="950" y="500" fill="#cbd5e1" font-family="Arial" font-size="28">&lt;300 ms target</text>
+</svg>

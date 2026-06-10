@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="OTDR classifier preview">
+  <rect width="1200" height="675" fill="#020617"/>
+  <text x="90" y="120" fill="#7dd3fc" font-family="Arial" font-size="24" font-weight="700" letter-spacing="4">OPTICAL FIBER ML</text>
+  <text x="90" y="195" fill="#ffffff" font-family="Arial" font-size="60" font-weight="700">OTDR Fault Classifier</text>
+  <text x="90" y="250" fill="#cbd5e1" font-family="Arial" font-size="28">ANN-based classification across 8 fault classes</text>
+  <polyline points="100,500 210,485 300,462 390,455 480,380 570,374 660,350 750,348 840,260 930,256 1040,250" fill="none" stroke="#38bdf8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#e0f2fe" font-family="Arial" font-size="26" font-weight="700">
+    <text x="98" y="570">trace</text>
+    <text x="780" y="235">fault event</text>
+  </g>
+</svg>
